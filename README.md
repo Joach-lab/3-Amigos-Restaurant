@@ -1,7 +1,6 @@
-# 3-Amigos-Restaurant Tacos and Buritos Sales overview
-## The goal of this project is to investigate the Sales of Buritos and Tacos at 3-amigos-Restaurant in order to assess the success of burrito and Taco introduction and make informed decisions about future menu offerings.
+# Understanding the impact of discounts on product sales at DAS.ltd
+## The goal of this project is to investigate the impact of discounts on the sales and profit at DAS.ltd. In order recommend the exact amount of discount and the required seasonality.
 
-**Founded in 2016, 3-amigos-Restaurant is a restaurant established in 3 cities in the United States**. **At the start in 2016, their Menu included Buritos and Tacos** in 3 Cities(Newbury Park ,Thousand Oaks and Woodland Hills) of various types meeting consumers of different Demographics.
+**Founded in 2016, DAs.ltd has been established in 5 countries(Canada,USA,Germany,Mexico and France)**. As an annual practice they compare the effect of discounts on sales and revenue.
 
-Now that they’ve hired a new data team and are seeking to understand their performance and portfolio with emphasis on possible improvement areas.
-The analytics team has 3 primary  objectives: 1) Help understand the performance 2) Recommend ways to improve their market share and sales 3) reduce cost and increase profit
+As per the annual practice, the sales analytics team have been tasked with the responsibility to analyse and present the impact of discounts between the current year(CY) vs previous year(PV).
